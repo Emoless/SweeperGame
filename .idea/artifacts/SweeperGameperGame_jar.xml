@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SweeperGameperGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SweeperGameperGame_jar</output-path>
+    <root id="archive" name="SweeperGameperGame.jar">
+      <element id="module-output" name="SweeperGameperGame" />
+    </root>
+  </artifact>
+</component>
